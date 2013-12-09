@@ -22,14 +22,13 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |Noah Silverman|Finance, Machine Learning, Hierarchical Bayes|http://www.smartmediacorp.com | | | | | |
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
-
-
-
-
-
-
-
+|Gregory R. Warnes
+|Skilled statistical analyst, scientific/analytic software developer, and expert in the R statistical analysis system. //  (Co-)Author of 20+ R packages: General tools: gregmisc, gtools, gdata, gmodels, gplots, namespace, SASxport, session – Statistical genetics & genomics: genetics, GeneticsBase, GeneticsDesign, GeneticsPed, GeneticsQC, fbat, ssize, qvalue - Parallel computing: fork, Rlsf - Audiology: SII - MCMC Diagnostics: mcgibbsit. 
+|http://gregoryrwarnes.com
+|greg@warnes.net
+|-
+|-
+|-|
 -------------
 
 
